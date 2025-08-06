@@ -1,5 +1,12 @@
-# Project
-The Project had been done using HTML,Css,BootStrap.
+# Organic-Food-Website
+
+This project is an E-Commerce Organic Food website built using HTML, CSS, and Bootstrap. The platform allows customers to browse, select, and order organic food items online from various vendors or restaurants. The system is designed to streamline the food ordering process, making it easy for users to discover healthy food options and place orders conveniently.
 
 # Description
-The E-Commerce Food Website is designed to enable customers to view, select, and order food items online from various vendors or restaurants. The system streamlines the food ordering process and eliminates the need for physical visits, ensuring fast, convenient, and contactless transactions. It is scalable and adaptable for future integration of payment gateways, user login systems, and delivery tracking.
+
+Features include:
+1. User-friendly interface for browsing organic food products
+2. Vendor/restaurant listings and detailed product descriptions
+3. Shopping cart and order placement functionality
+4. Responsive design for optimal viewing on different devices
+
